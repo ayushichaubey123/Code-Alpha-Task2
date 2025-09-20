@@ -1,4 +1,4 @@
-package codeAlpha_Task2;
+package Code-Alpha-Task2;
 
 import javax.swing.*;
 import java.awt.*;
